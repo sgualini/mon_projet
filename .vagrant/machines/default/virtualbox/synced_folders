@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mon-projet":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mon-projet","hostpath":"C:/Users/Utente/Documents/GitHub/mon_projet","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Utente/Documents/GitHub/mon_projet","disabled":false}}}
